@@ -6,7 +6,6 @@
  * Time: 15:42
  */
 
-include "./vendor/autoload.php";
-use dump;
+require "./vendor/autoload.php";
 
 pp(1111);

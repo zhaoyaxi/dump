@@ -1,12 +1,10 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: Administrator
+ * User: zhaoyaxi <zhaoyaxiphp@163.com>
  * Date: 2020/5/20 0020
- * Time: 15:40
+ * Time: 15:51
  */
-namespace dump;
-
 
 /**
  * 调试函数
@@ -104,3 +102,4 @@ if(!function_exists("T")){
         $isDie && die();
     }
 }
+
