@@ -2,6 +2,7 @@
     "name": "zhaoyx/dump",
     "description": "print echo",
     "type": "project",
+    "license": "MIT",
     "authors": [
         {
             "name": "zhaoyaxi",
