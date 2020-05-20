@@ -13,7 +13,7 @@
     "require": {},
 	"autoload":{
         "files":[
-            "functions.php"
+            "helper/functions.php"
         ],
         "psr-4":{}
 	}
