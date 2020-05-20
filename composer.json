@@ -1,0 +1,19 @@
+{
+    "name": "zhaoyx/dump",
+    "description": "print echo",
+    "type": "project",
+    "authors": [
+        {
+            "name": "zhaoyaxi",
+            "email": "zhaoyaxiphp@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+	"autoload":{
+        "files":[
+            "functions.php"
+        ],
+        "psr-4":{}
+	}
+}
